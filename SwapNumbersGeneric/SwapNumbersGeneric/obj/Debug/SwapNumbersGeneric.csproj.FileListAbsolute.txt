@@ -1,0 +1,7 @@
+C:\Users\smomi\source\repos\SwapNumbersGeneric\SwapNumbersGeneric\bin\Debug\SwapNumbersGeneric.exe.config
+C:\Users\smomi\source\repos\SwapNumbersGeneric\SwapNumbersGeneric\bin\Debug\SwapNumbersGeneric.exe
+C:\Users\smomi\source\repos\SwapNumbersGeneric\SwapNumbersGeneric\bin\Debug\SwapNumbersGeneric.pdb
+C:\Users\smomi\source\repos\SwapNumbersGeneric\SwapNumbersGeneric\obj\Debug\SwapNumbersGeneric.csproj.AssemblyReference.cache
+C:\Users\smomi\source\repos\SwapNumbersGeneric\SwapNumbersGeneric\obj\Debug\SwapNumbersGeneric.csproj.CoreCompileInputs.cache
+C:\Users\smomi\source\repos\SwapNumbersGeneric\SwapNumbersGeneric\obj\Debug\SwapNumbersGeneric.exe
+C:\Users\smomi\source\repos\SwapNumbersGeneric\SwapNumbersGeneric\obj\Debug\SwapNumbersGeneric.pdb
